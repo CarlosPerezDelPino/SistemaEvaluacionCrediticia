@@ -1,3 +1,4 @@
+view\PuntajeFrame.class
 com\mycompany\sistemaevaluacioncrediticia\model\service\IUsuarioService.class
 com\mycompany\sistemaevaluacioncrediticia\SistemaEvaluacionCrediticia.class
 com\mycompany\sistemaevaluacioncrediticia\model\dao\IPuntajeCreditoDao.class
@@ -9,6 +10,7 @@ com\mycompany\sistemaevaluacioncrediticia\model\daoimpl\SimulacionDaoImpl.class
 com\mycompany\sistemaevaluacioncrediticia\model\entity\Notificacion.class
 com\mycompany\sistemaevaluacioncrediticia\model\service\UsuarioServiceImpl.class
 com\mycompany\sistemaevaluacioncrediticia\model\daoimpl\UsuarioDaoImpl.class
+view\FactoresRiesgoFrame.class
 com\mycompany\sistemaevaluacioncrediticia\model\service\PuntajeCreditoServiceImpl.class
 controller\UsuarioController.class
 exception\CorreoDuplicadoException.class
@@ -24,11 +26,16 @@ com\mycompany\sistemaevaluacioncrediticia\model\dao\IRecomendacionDao.class
 persistence\ConexionSqlServer.class
 com\mycompany\sistemaevaluacioncrediticia\model\dao\INotificacionDao.class
 com\mycompany\sistemaevaluacioncrediticia\model\dao\IUsuarioDao.class
+view\SimuladorFrame.class
 com\mycompany\sistemaevaluacioncrediticia\model\entity\PuntajeCredito.class
 com\mycompany\sistemaevaluacioncrediticia\model\daoimpl\HistorialDaoImpl.class
 security\PasswordEncoderTest.class
+view\HistorialFrame.class
 com\mycompany\sistemaevaluacioncrediticia\model\entity\Usuario.class
+view\MenuPrincipalFrame.class
 com\mycompany\sistemaevaluacioncrediticia\model\dao\UsuarioDaoTest.class
 com\mycompany\sistemaevaluacioncrediticia\model\dao\ISimulacionDao.class
 com\mycompany\sistemaevaluacioncrediticia\model\daoimpl\RecomendacionDaoImpl.class
+view\LoginFrame.class
 com\mycompany\sistemaevaluacioncrediticia\model\daoimpl\NotificacionDaoImpl.class
+view\RecomendacionesFrame.class
